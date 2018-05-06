@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/adrien/.platformio/penv/bin:/home/adrien/.platformio/penv:/home/adrien/.nvm/versions/node/v6.10.2/bin:/usr/local/jdk/bin:/usr/local/cuda/bin:/usr/local/bin:/usr/local/sbin:/home/adrien/bin:/home/adrien/.local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/adrien/.rvm/bin:/usr/local/hadoop/bin:/usr/local/storm/bin:/usr/local/spark/bin:/usr/local/maven/bin:/home/adrien/.rvm/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
